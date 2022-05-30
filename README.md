@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanmishra29
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java Programming.
+- 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on JAVA based projects.
 - 📫 How to reach me twitter: https://twitter.com/aryanmishra29
      Instagram: https://www.instagram.com/astrophile_aryan/
