@@ -4,12 +4,12 @@
 
 I am an Engineering Undergrad interested in the world of codes and cosmos .
 
-Skills: Android Development | JAVA | Kotlin | Spring Boot
+Skills: Microservices | Spring Boot | Node JS | CI/CD | AWS | Android Development
 
-- 🌱 I’m currently learning Spring Boot 
-- 💬 Ask me about Android Development, Java 
+- 🌱 I’m currently learning Microservices in Spring Boot 
+- 💬 Ask me about Backend and DevOps 
 - 📫 How to reach me: aryan29mishra@gmail.com 
-- ⚡ Fun fact: Coffee tastes better with... 
+- ⚡ Fun fact: Coffee tastes better with a teaspoon of code
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aryanmishra29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryanmishra29/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aryanmishra029/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aryanmishra29)  
@@ -19,5 +19,3 @@ Skills: Android Development | JAVA | Kotlin | Spring Boot
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra29)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanmishra29&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/aryanmishra29)  
